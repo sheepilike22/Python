@@ -1,0 +1,1 @@
+* 透過reporting_api & client_secrets.json 認證能夠自動蒐集資料，但第一次run需經過服務證認。
